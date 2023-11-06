@@ -1,6 +1,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2Seungsu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### 👋 To become AI&BigData Specialist 👋
-![digimon](digimon-adventure.jpg)
+  ____   _    ____  _  __  ____  _   _ _   _ _  ____   ___   _ _   _  ____ 
+ |  _ \ / \  |  _ \| |/ / / ___|| | | | \ | | |/ /\ \ / / | | | \ | |/ ___|
+ | |_) / _ \ | |_) | ' /  \___ \| | | |  \| | ' /  \ V /| | | |  \| | |  _
+ |  __/ ___ \|  _ <| . \   ___) | |_| | |\  | . \   | | | |_| | |\  | |_| |
+ |_| /_/   \_\_| \_\_|\_\ |____/ \___/|_| \_|_|\_\  |_|  \___/|_| \_|\____|
 
 <h2 align="center">
 🌱 저는 빅데이터와 인공지능을 공부하고, 데이터분석가로 취업을 준비하고 있습니다. 🌱
