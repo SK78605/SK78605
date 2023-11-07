@@ -21,6 +21,7 @@ ____   _    ____  _  __  ____  _   _ _   _ _  ____   ___   _ _   _  ____
 
 <p align="center"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/></a> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=wh ite"/></a>  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/></a> </p> 
 <p align="center"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a> <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/></a> </p>
+<p align="center"><img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=white"><img src="https://img.shields.io/badge/opencv-EA7E20?style=flat-square&logo=opencv&logoColor=white"> </p>
 
 
 <h2 align="center">⋆｡ﾟ✶°💜 Continue studying BigData & AI 💜⋆｡ﾟ✶°</h2>
